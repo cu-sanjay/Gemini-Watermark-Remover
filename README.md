@@ -61,7 +61,7 @@ The extension uses precomputed watermark templates for both standard Gemini wate
 
 Install directly from the Microsoft Edge Add-ons Store:
 
-[Microsoft Store link here]()
+[Microsoft Store link here](https://microsoftedge.microsoft.com/addons/detail/nlfhgjjionkpldaikdlhmjhhpkjnpmle)
 
 ### Google Chrome (CRX Install)
 
