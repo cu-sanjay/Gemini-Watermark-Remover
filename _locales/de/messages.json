@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Gemini-Wasserzeichenentferner"
+  },
+  "appDescription": {
+    "message": "Entfernt automatisch Wasserzeichen aus Gemini-KI-Bildern für ein sauberes, professionelles Ergebnis."
+  }
+}

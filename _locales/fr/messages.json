@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Suppresseur de filigrane Gemini"
+  },
+  "appDescription": {
+    "message": "Supprime automatiquement les filigranes des images Gemini AI pour un rendu propre et professionnel."
+  }
+}
